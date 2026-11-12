@@ -1,0 +1,9 @@
+.godot/
+/.env
+/.env.*
+/.claude/
+/.codex/
+/credentials.*
+/secrets.*
+*.pem
+*.key
